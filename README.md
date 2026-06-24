@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Wathek Maklad 👋
 
-<!--
-**ENGWMK/ENGWMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineer interested in AI, web development, embedded systems, and practical engineering solutions.
 
-Here are some ideas to get you started:
+## About Me
+- Electrical Engineer
+- Interested in AI and smart systems
+- Building web and automation projects
+- Working with PHP, JavaScript, Python, MySQL, ESP32, and Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- AI football prediction system
+- Educational consulting tools and websites
+
+## Tech Stack
+PHP | JavaScript | Python | HTML | CSS | MySQL | ESP32 | Arduino
+
+## Contact
+📧 wathekmaklad@gmail.com
